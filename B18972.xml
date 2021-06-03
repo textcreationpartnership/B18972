@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties declaration to both houses of Parliament (which he likewise recommends to the consideration of all his loving subjects) in answer to that declaration presented to him by both Houses of Parliament at Newmarket, the 9th of March, 1641.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18972</idno><idno type="EEBO-CITATION">11183760</idno>
+  <idno type="VID">204858</idno>
+  <idno type="EEBO-PROQUEST">2240866693</idno>
+  
+            <idno type="STC">Wing C2270A</idno>
+            <idno type="OCLC">11183760</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204858)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties declaration to both houses of Parliament (which he likewise recommends to the consideration of all his loving subjects) in answer to that declaration presented to him by both Houses of Parliament at Newmarket, the 9th of March, 1641.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for [I.T.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through; cropped with loss of print on last page.</note>
+                  <note>Initials in imprint are obscurred in copy, information supplied from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204858:1"/>
+            <pb facs="tcp:204858:1"/>
+            <p>The Kings Maiesties DECLARATION To both Houses of PARLIAMENT.</p>
+            <p>(Which He likewise recommends to the consideration of all His loving Subjects)</p>
+            <p>In Answer to that Declaration presented to him by both Houses of Parliament at <hi>New-market,</hi> the 9<seg rend="sup">th</seg> of <hi>March,</hi> 1641.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204858:2"/>
+            <head>His Majesties Declaration to both Houses of Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough the Declaration lately presented to us at <hi>New-market,</hi> from both Our Houses of Parliament, be of so strange a nature, in respect of what We ex<g ref="char:EOLhyphen"/>pected (after so many Acts of Grace and Favour to Our People) and some expressions in it so diffe<g ref="char:EOLhyphen"/>rent from the usuall Language to Princes, that We might well take a very long time to consider it; Yet the clearnesse and up<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghtnesse of Our Conscience to God, &amp; love to our Subiects, hath supplyed Us with a speedy Answer, and Our unalterable Affection to Our People prevailed with Us, to suppresse that Passion, which might well enough become Us, upon such an Invitation.</p>
+            <p>We haue reconsidered Our Answer of the first of this Moneth at <hi>Theobalds,</hi> which is urged to have given just cause of sorrow to Our Subjects. Whosoever looks over that Message (which was in effect to tell Us, That if we would not joyne with th m (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n an Act which we conceived might prove prejudiciall and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngerous to Us and the whole Kingdome) they would make a Law without Us, and impose it upon Our People) will not thinke that sud<g ref="char:EOLhyphen"/>den Answer can be accepted to.</p>
+            <p>We have little encouragement to Replyes of this nature, when we are told of how little value Our words are like to be w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th you, though they come accompanied with all the Actions of Love and Justice (where there is room for Actions to accomp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny them) yet we cannot but disavow the having any such evill Councell or Councellors about Us, to our knowledge, as are mentioned, and if any such be discovered, we will leave them to the Censure and Judgement of Our Parliament▪ In <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he meane time, We cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d wish, that Our own immediate Actions which We avow, and Our own Ho<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> mi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> roughly censured and woun<g ref="char:EOLhyphen"/>ded, under that common stile of Evill Councellours.</p>
+            <p>For Our faithfull and zealous affection to the true Protestant
+<pb facs="tcp:204858:2"/> Profession, and Our resolution to concur with our Parliament in any possible course for the propagation of it, and suppression of Popery. We can say no more then We have already expressed in Our Declaration to all Our loving Subjects published in <hi>Jan.</hi> last by the advice of Our Privy Councell, in which We endea<g ref="char:EOLhyphen"/>voured to make as lively a Confession of our Selfe, in this point, as We were able, being most assured that the constant Practice of our Life hath been answerable thereunto: And therefore We did rather expect a Testimony, and Acknowledgement of such Our Zeal and P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ety, then those Expressions We meet with in this Declaration, of any designe of altering Religion in this Kingdome. And we do (out of the Innocency of Our Soule) wish, That the Judgements of Heaven may be manifested upon those, who have, or had any such Designe.</p>
+            <p>As for the <hi>Scots</hi> troubles, We had well thought that those un<g ref="char:EOLhyphen"/>happy differences had bin wrapt up in perpetuall silence, by the Act of Oblivion, which being solemnly past in the Parliament<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of both Kingdomes, stops Our mouth from any other Reply then to shew Our great dislike for reviving the memory thereof.</p>
+            <p>If the Rebellion in <hi>Jreland,</hi> (so odious to all Christians) seems to have been framed and maintained in <hi>England,</hi> or to have any countenance from hence. We conjure both Our Houses of Par<g ref="char:EOLhyphen"/>liament, and all Our loving Subiects whatsoever, to use all pos<g ref="char:EOLhyphen"/>sible means to discover and find such out, that We may joyne in the most exemplary vengeance upon them that can be imagined: But We must thin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Our selfe highly and causlesly injured in Our Reputation, if any Declaration, Action, or Expression of the <hi>Irish</hi> Rebels, any Letter from Count <hi>Rosetti</hi> to the Papists, for fasting and praying, or from <hi>Trestram Whitcombe,</hi> of strange Speeches u tered in <hi>Jreland,</hi> shall beget any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealousie, or misap<g ref="char:EOLhyphen"/>prehension in Out Subjects, of Our Iustice, Piety and affection it being evident to all vnderstandings, That th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se mischievous and wicked Rebels are not so capable of great advantage as by having their false discours<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s so far beleeved, as to raise Fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res and Jea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ousies to the distraction of thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdome, the onely way to their security: And we cannot expresse a deeper sence of the suf<g ref="char:EOLhyphen"/>fering of Our poor protestant Subjects in that Kingdom, then we have done in Our often Messages to both Houses, by which
+<pb facs="tcp:204858:3"/> we have offered, and are still ready to venture Our Royall Per<g ref="char:EOLhyphen"/>son for their Redemption, well knowing, that a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> We are (in Our own <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nterest) more concerned in them, so We are to make a strict Accompt to Almighty God for any neglect of Our duty, or their preservation.</p>
+            <p>For the manifold attempts to provoke our late Army, and the Army of the <hi>Scots,</hi> and to rayse a faction in the City of <hi>London,</hi> and other parts of the Kingdome; If it be said, as relating to us, we cannot without great indignation, suffer Out selfe to be re<g ref="char:EOLhyphen"/>proached, to have intended the least force or threatning to our Parliament; as the being privie to the bringing up of the Army would imply: wheteas we call God to witnesse, we never had any such thought, or knew of any such resolution concerning our late Army.</p>
+            <p>For the Petition shewed to us by Captaine <hi>Legg,</hi> we well remember the same, and the occasion of that Conference: Cap<g ref="char:EOLhyphen"/>taine <hi>Legg</hi> being lately come out of the North, and repairing to us at <hi>Whitehall,</hi> we asked him of the state of our Army, and (af<g ref="char:EOLhyphen"/>ter some relation made of it) he told us, that the Commanders and Officers of the Armie had a mind to petition the Parlia<g ref="char:EOLhyphen"/>ment, as others of our people had done, and shewed us the co<g ref="char:EOLhyphen"/>py of a Petition, which we read, and finding it to be very hum<g ref="char:EOLhyphen"/>ble, desiring the Parliament might receive no interruption in the Reformation of the Church and State, to the modell of Queen <hi>Elizabeths</hi> dayes; We told him, We saw no harme in it, VVhereupon he replyed, that he beleeved all the Officers of the Army would like it, onely he thought Sir <hi>Jaccob Ashley</hi> would be unwilling to signe it, out of feare it might displease Us. We then read the Petition over againe, and then observing nothing in matter or forme We conceived could possi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly give iust cause of offence, We delivered it to him againe, bidding him give it to Sir <hi>Iacob A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hley,</hi> for whose satisfact on We had written <hi>C. R.</hi> upon it, to testifie Our approbation; and VVi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h that the Petiti<g ref="char:EOLhyphen"/>on might be seen and published, and then VVe beleeve it will ap<g ref="char:EOLhyphen"/>peare no dangerous one. not a iust ground for the least jealousie, or misapprehension.</p>
+            <p>For Master <hi>Iermin,</hi> it is well knowne that he was gone from <hi>Whitehall</hi> before VVe received the desire of both Houses for the
+<pb facs="tcp:204858:3"/> restraint of Our servants: neither returned he thither, or passed over by any VVarrant granted by Us after that time.</p>
+            <p>For the breach of Priviledge in the Accusation of the Lord <hi>Kymbolton,</hi> and the five Members of the house of Commons, VVe tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght VVe had given so am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le satisfaction in Our seve<g ref="char:EOLhyphen"/>rall Messages to that purpose, that it should be no more pressed against us, being confident if the breach of Priviledge had beene greater then hath bin ever before offered, Out acknowledgement and retractation hath beene greater then ever King hath given, besides the not examining how many of Our Priviledges have beene invaded in defence and vindication of the other; And therefore VVe hoped Our true and earnest Protestation in Our an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer to your Order concerning the <hi>Militia,</hi> would so farre have satisfied you of your intentions then, that you would no more have entertained any imagination of any other designe then VVe there expressed.</p>
+            <p>But why the listing of so many Officers, and entertaining them at <hi>VVhitehall</hi> should be misconstrued, VVe much marvell, when it is notoriously knowne; the tumults at <hi>Westminster</hi> were so great, and their demeanours so scandalous and seditious, that VVe had good cause to suppose Our owne Person, and those of Our VVife and Children to be in apparent danger, and therefore VVe had great reason to appoint a Guard about us, and to ac<g ref="char:EOLhyphen"/>cept the dutifull tender of the services of any of Our loving Sub<g ref="char:EOLhyphen"/>jects, which was all we did to the Gentlemen of the Innes of Court.</p>
+            <p>For the Lord <hi>Digby,</hi> VVe assure you in the word of a King, that he had Our VVarrant to passe the Seas, and had left Our Court before We ever heard of the Vote of the house of Com<g ref="char:EOLhyphen"/>mons, or had any cause to imagine that his absence would have beene excepted against.</p>
+            <p>What your advertisements are from <hi>Rome, Venice, Paris,</hi> and other parts, or what the <hi>Popes Nun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io</hi> Sollicites the Kings of <hi>France</hi> or <hi>Spaine</hi> to doe, or from what persons such informations come to you, or how the credit and reputation of such persons have beene sifted and examined, we know not, but are confident, no sober honest man in Our Kingdomes can beleeve, that wee are so desperate or so senselesse, to entertaine such Designes, as
+<pb facs="tcp:204858:4"/> would not onely bury this Our Kingdome in sudden distraction and ruine, but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur owne Name and Posterity in perpetuall scorn and infamy. And therefore we could have wished, that in mat<g ref="char:EOLhyphen"/>ters of so high and tender a nature (wherewith the minds of Our good Subjects must needs be startled) all the expressions were so plain and easie, that nothing might stick with them with re<g ref="char:EOLhyphen"/>flection upon Us, since you thought fit to publish it at all.</p>
+            <p>And having now dealt thus plainly &amp; freely with you by way of Answer to the particular grounds of your Fears, We hope (upon a due consideration and weighing both together) you will not find the Grounds to be of that moment to beget, or longer to continue a misunderstand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng betwixt Us, or force you to apply your selves to the use of any other power then what the Law hath given you, the which we alwayes intend shall be the measure of Our owne power, and expect it shall be the rule of our Subiects Obedience.</p>
+            <p>Concerning Our Feares and Iealousies, as Wee had no inten<g ref="char:EOLhyphen"/>tion of accusing you, so are We sure no words spoken by Us (on the sudden) at <hi>Theobalds</hi> will bear that Interpretation We said for Our Residence neer you VVe wisht it might be so safe and Honourable, that VVe had no cause to absent Our self from <hi>White-Hall,</hi> And how this can be a breach of Priviledge of Par<g ref="char:EOLhyphen"/>liament VVe cannot vnderstand, VVe explained Our meaning in Our Answer at <hi>New-Market,</hi> at the Presentation of this De<g ref="char:EOLhyphen"/>claration concerning the printed seditious pamphlets and Ser<g ref="char:EOLhyphen"/>mons, and the great tumults at <hi>VVestminster:</hi> And VVe must appeal to you and all the world whether we might not justly suppose Our self in danger of either, And if we were now at <hi>VVhite-Hall,</hi> what security have we, that the like shall not be againe, especially if any Delinquents of that Natu e have been apprehended by the Ministers of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustice, And been res<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ued by the people. And so as yet escape vnpunished; Jf you have not been informed of the seditious words used in, and the circum<g ref="char:EOLhyphen"/>stances of those Tumults, and will appoint some way for the Ex<g ref="char:EOLhyphen"/>amination of them We will requ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re some of Ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Coun<g ref="char:EOLhyphen"/>cell to atte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with such evidence as may satisfie you, And till that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e done, or some o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her cout<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e taken for Our security, you cannot (with reason) wonder that We intend not to be where We most desire to be.</p>
+            <pb facs="tcp:204858:4"/>
+            <p>And can there yet want evidence of Our hearty and importu<g ref="char:EOLhyphen"/>nate desire to joyn with our Parliament, and all Our faithfull Subjects, in defence of the Religion and publique good of the Kingdome; Have we given you no other earnest but words, to secure you of those desires; The very Remonstrance of the House of Commons (published in <hi>November</hi> last) of the state of the Kingdome allows vs a more reall Testimonie of our good Affections then words: That Remonstrance valued Our Acts of Grace and Justice at so high a rate, that it declared the King<g ref="char:EOLhyphen"/>dome to be then a gainer, though it had charged it selfe by Bils of Subsidies and Pol-money, with leavy of 600000 pounds, besides the contracting of a Debt to Our Scots Subjects of 220000 pounds.</p>
+            <p>Are the Bils for the Trienniall Parliament, For relinquishing Our Title of Jmposing upon Merchand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze, and Power of Pres<g ref="char:EOLhyphen"/>sing of Souldiers, For the taking away the Starchamber, and high Commission Courts For the Regulating the Councell Ta<g ref="char:EOLhyphen"/>ble, but words? Are the Bills for the Forrests, the Stannery Courts, The Clerke of the Market, And the taking away the Votes of Bishops out of the Lords House, but words? Lastly, what greater earnest of Our trust and reliance on Our Parliament could or can we give, then the passing of the Bill for the conti<g ref="char:EOLhyphen"/>nuance of this present Parliament? The length of which VVe hope will never alter the nature of Parliaments, and the Con<g ref="char:EOLhyphen"/>stitution of this Kingdome, or invite Our Subjects so much to abuse our Confidence, as to esteem any thing fit for this Par<g ref="char:EOLhyphen"/>liament to doe, which were not, if it were in Our power to dis<g ref="char:EOLhyphen"/>solve it to morrow. And after all these, and many other Acts of Grace on Our part that VVe m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght be su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of a perfect Recon<g ref="char:EOLhyphen"/>ciliation betwixt Us and all our Subjects) VVe have offered, and are still ready to grant a free and generall Pardon, as amp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as your selves shall thinke fit. Now if these be not reall expressi<g ref="char:EOLhyphen"/>ons of the Affections of our Soule, for the publike good of Our Kingdome, VVe must confesse that We want skill to manifest them.</p>
+            <p>To conclude (although we thinke our Answer already full to that point) concerning our Returne to <hi>London:</hi> We are willing to Declare, that we looke upon it as a matter of so great weight,
+<pb facs="tcp:204858:5"/> owne inclinations and desires, that if all we can say or doe, can raise a mutuall Confidence (the onely way with Gods blessing to make us all happy, and by your incouragement the Lawes of the Land, and the government of the City of <hi>London,</hi> may reco<g ref="char:EOLhyphen"/>ver some life for our Security, we will overtake your desires▪ and be as soone with you as you can wish. And in the mean time, we will be sure, that ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther the businesse of <hi>Jreland,</hi> or any o<g ref="char:EOLhyphen"/>ther advantage for this Kingdome shall suffer through Our de<g ref="char:EOLhyphen"/>fault, or by our absence: not being so farre from repenting the Acts of Our Justice and Grace, which we have already perfor<g ref="char:EOLhyphen"/>med to Our People, that we shall with the same Alacrity, bee still ready to adde such new Ones, as may best advance the peace, Honour, and prosperity of this Nation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204858:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
